@@ -11,7 +11,7 @@
  Author     : Bjorn Kjeholt
  *************************************************************************/
 
-var agent = require('./Classes/agentBody');
+var agent = require('./classes/agentBody');
 
 var agentObj = agent.create_AgentBody({ 
                                     agent: {
