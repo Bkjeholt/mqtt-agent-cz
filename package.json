@@ -20,7 +20,8 @@
     "type": "git"
   },
   "scripts" : {
-    "start" : "node ./testport_cz.js"
+    "test" : "node ./testport_cz.js",
+    "start" : "node ./js/main.js"
   },
   "bugs" : {
     "url" : "null"
