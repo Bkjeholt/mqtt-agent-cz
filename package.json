@@ -1,0 +1,28 @@
+{
+  "name" : "mqtt-agent-cz",
+  "version" : "0.1.2",
+  "description" : "Home information Center mqtt-based Agent for listing on the Comfort Zone serial port",
+  "keywords" : [ "mqtt-based", "agent", "comfort zone" ],
+  "author" : {
+    "name" : "Björn Kjeholt",
+    "email" : "bjorn@kjeholt.se",
+    "url" : "http://www-dev.kjeholt.se"
+  },
+  "main" : "./js/main.js",
+  "contributors" : [ ],
+  "dependencies" : {
+    "mqtt" : "1.7.3",
+    "serialport" : "4.0.3"
+  },
+  "license" : "MIT",
+  "repository": {
+    "url": "https://github.com/bkjeholt/mqtt-agent-cz",
+    "type": "git"
+  },
+  "scripts" : {
+    "start" : "node ./testport_cz.js"
+  },
+  "bugs" : {
+    "url" : "null"
+  }
+}
