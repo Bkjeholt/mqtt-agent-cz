@@ -1,6 +1,6 @@
 {
   "name" : "mqtt-agent-cz",
-  "version" : "0.1.2",
+  "version" : "0.1.0",
   "description" : "Home information Center mqtt-based Agent for listing on the Comfort Zone serial port",
   "keywords" : [ "mqtt-based", "agent", "comfort zone" ],
   "author" : {
