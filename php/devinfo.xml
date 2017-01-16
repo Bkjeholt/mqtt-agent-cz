@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conf>
+	<devinfo>
+	    <dev id='1' name='czUptime' det='ackumulated' dat='float'/>  
+	    <dev id='2' name='czTempRoom_SP' det='semistatic' dat='bool'/>   
+   	 	<dev id='3' name='czTempTank_SP' det='semistatic' dat='bool'/>   
+   	 	<dev id='4' name='czTempRoom' det='semistatic' dat='bool'/>   
+   	 	<dev id='5' name='czTempTank' det='semistatic' dat='bool'/>   
+    	<dev id='6' name='czTempEvap' det='semistatic' dat='bool'/>   
+    	<dev id='7' name='czTempReturnPipe' det='semistatic' dat='bool'/>   
+    	<dev id='8' name='czHeatSources' det='semistatic' dat='bool'/>   
+    	<dev id='9' name='czDigSensors' det='semistatic' dat='bool'/>   
+    	<dev id='10' name='czCompFreq' det='dynamic' dat='int'/>
+    	<dev id='11' name='czFanVoltPerc' det='dynamic' dat='float'/>  
+    	<dev id='12' name='cz011' det='semistatic' dat='bool'/>
+    	<dev id='13' name='cz012' det='semistatic' dat='bool'/>   
+    	<dev id='14' name='cz013' det='semistatic' dat='bool'/>   
+    	<dev id='15' name='cz014' det='semistatic' dat='bool'/>   
+    	<dev id='16' name='cz015' det='semistatic' dat='bool'/>      
+    	<dev id='17' name='czTempSupplyPipeEst' det='semistatic' dat='bool'/>   
+    	<dev id='18' name='czPowerDisplay' det='semistatic' dat='bool'/>   
+    	<dev id='19' name='cz018' det='semistatic' dat='bool'/>   
+    	<dev id='20' name='cz019' det='semistatic' dat='bool'/>    
+    	<dev id='21' name='cz020' det='semistatic' dat='bool'/>   
+    	<dev id='22' name='czCompFreqMaxAllowed' det='semistatic' dat='bool'/>   
+    	<dev id='23' name='czPowerRequested' det='semistatic' dat='bool'/>   
+    	<dev id='24' name='czPowerAuxHeater' det='semistatic' dat='bool'/>   
+    	<dev id='25' name='cz024' det='semistatic' dat='bool'/>   
+    	<dev id='26' name='cz025' det='semistatic' dat='bool'/>   
+    	<dev id='27' name='cz026' det='semistatic' dat='bool'/>   
+    	<dev id='28' name='cz027' det='semistatic' dat='bool'/>   
+    	<dev id='29' name='cz028' det='semistatic' dat='bool'/>   
+    	<dev id='30' name='cz029' det='semistatic' dat='bool'/>   
+    	<dev id='31' name='cz030' det='semistatic' dat='bool'/>   
+    	<dev id='32' name='cz031' det='semistatic' dat='bool'/>    
+    	<dev id='33' name='cz032' det='semistatic' dat='bool'/>   
+    	<dev id='34' name='cz033' det='semistatic' dat='bool'/>   
+    	<dev id='35' name='cz034' det='semistatic' dat='bool'/>   
+    	<dev id='36' name='cz035' det='semistatic' dat='bool'/>   
+    	<dev id='37' name='cz036' det='semistatic' dat='bool'/>   
+    	<dev id='38' name='cz037' det='semistatic' dat='bool'/>   
+    	<dev id='39' name='cz038' det='semistatic' dat='bool'/>   
+    	<dev id='40' name='cz039' det='semistatic' dat='bool'/>   
+    	<dev id='41' name='cz040' det='semistatic' dat='bool'/>   
+    	<dev id='42' name='cz041' det='semistatic' dat='bool'/>   
+    	<dev id='43' name='cz042' det='semistatic' dat='bool'/>   
+    	<dev id='44' name='cz043' det='semistatic' dat='bool'/>
+	</devinfo>
+</conf>
